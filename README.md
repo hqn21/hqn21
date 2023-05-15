@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats-hqn21.vercel.app/api/top-langs/?username=hqn21&langs_count=7&card_width=512&count_private=true)](https://github-readme-stats-hqn21.vercel.app/api/top-langs/?username=hqn21&langs_count=7&card_width=512&count_private=true)
+[![Top Langs](https://github-readme-stats-98yw.vercel.app/api/top-langs/?username=hqn21&langs_count=7&card_width=512&count_private=true)](https://github-readme-stats-98yw.vercel.app/api/top-langs/?username=hqn21&langs_count=7&card_width=512&count_private=true)
