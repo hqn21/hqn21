@@ -2,4 +2,4 @@ Senior undergraduate in Computer Science at National Chung Hsing University, pas
 
 For more details, please check out my [LinkedIn](https://www.linkedin.com/in/haoquanliu/).
 
-![Profile Views](https://komarev.com/ghpvc/?username=hqn21)
+[![Profile Views](https://komarev.com/ghpvc/?username=hqn21)](https://github.com/hqn21)
